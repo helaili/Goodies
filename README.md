@@ -9,3 +9,7 @@ Jupyter notebooks mix text, data and rendering. Create them on [Jupyter.org](htt
 
 3D files (stl) can be rendered too. This [example](./octocat_head.stl) is one of [Loren Norman's experimentations](http://lorennorman.github.io/octocat-3d/)
 - [3D File Viewer](https://help.github.com/articles/3d-file-viewer/)
+
+
+GIF : 
+See a [cool diff](https://github.com/helaili/Goodies/commit/a6e6a3358741bc96cecaae1b011f9651df04e05d)
