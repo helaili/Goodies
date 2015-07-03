@@ -7,5 +7,5 @@ Render maps directrly in GitHub. Simply create a file with JSON in and that's it
 
 Jupyter notebooks mix text, data and rendering. Create them on [Jupyter.org](https://try.jupyter.org/) and store [the result](./jupyter.ipynb) on GitHub.
 
-3D files
+3D files (stl) can be rendered too. This [example](./octocat_head.stl) is one of [Loren Norman's experimentations](http://lorennorman.github.io/octocat-3d/)
 - [3D File Viewer](https://help.github.com/articles/3d-file-viewer/)
