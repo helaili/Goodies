@@ -7,3 +7,7 @@ Render maps directrly in GitHub. Simply create a file with JSON in and that's it
 
 Jupyter notebooks mix text, data and rendering. Create them on [Jupyter.org](https://try.jupyter.org/) and store the result on GitHub]
 [Jupyter example](./jupyter.ipynb)
+
+
+3D files
+- [3D File Viewer](https://help.github.com/articles/3d-file-viewer/)
