@@ -7,9 +7,8 @@
 
 [Jupyter notebooks](./jupyter.ipynb) mix text, data and rendering. Create them on [Jupyter.org](https://try.jupyter.org/) and store the result on GitHub.
 
-[3D files (stl)](./octocat_head.stl) can be rendered too. This [example](./octocat_head.stl) is one of [Loren Norman's experimentations](http://lorennorman.github.io/octocat-3d/)
-- [3D File Viewer](https://help.github.com/articles/3d-file-viewer/)
+[3D files (stl)](./octocat_head.stl) can be rendered too. This [example](./octocat_head.stl) is one of [Loren Norman's experimentations](http://lorennorman.github.io/octocat-3d/). More information on this with the following pages : 
+- [3D File Viewer](https://help.github.com/articles/3d-file-viewer/) on GitHub Help. 
 
 
-GIF : 
-See a [cool diff](https://github.com/helaili/Goodies/commit/a6e6a3358741bc96cecaae1b011f9651df04e05d)
+[Images](./daftpunktocat.gif) can be rendered, but most of all they can be [:sparkles:  diffed](https://github.com/helaili/Goodies/commit/a6e6a3358741bc96cecaae1b011f9651df04e05d)
