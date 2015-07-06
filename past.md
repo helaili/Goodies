@@ -1,5 +1,5 @@
 Committing in the past
 
-V3
+V4
 
-git commit --date=1969.07.14
+git commit --date=-100000000 +0000
