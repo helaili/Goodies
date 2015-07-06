@@ -7,6 +7,8 @@
 - [Ben Balter's repo](https://github.com/benbalter/dc-wifi-social) where my sample above was shameessly stolen from.
 
 [Jupyter notebooks](./jupyter.ipynb) mix text, data and rendering. Create them on [Jupyter.org](https://try.jupyter.org/) and store the result on GitHub.
+- [GitHub + Jupyter Notebooks = <3](https://github.com/blog/1995-github-jupyter-notebooks-3)
+- [Jupyter.org](http://jupyter.org/) main site and [Try Jupyter!](https://try.jupyter.org/).
 
 [3D files (stl)](./octocat_head.stl) can be rendered too. This [example](./octocat_head.stl) is one of [Loren Norman's experimentations](http://lorennorman.github.io/octocat-3d/). More information on this with the following pages : 
 - [3D File Viewer](https://help.github.com/articles/3d-file-viewer/) on GitHub Help. 
