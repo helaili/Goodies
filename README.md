@@ -13,3 +13,6 @@
 
 
 [Images](./daftpunktocat.gif) can be rendered, but most of all they can be [:sparkles:  diffed](https://github.com/helaili/Goodies/commit/a6e6a3358741bc96cecaae1b011f9651df04e05d)
+- [Rendering and diffing images](https://help.github.com/articles/rendering-and-diffing-images/) on GitHub Help.
+
+[CSV and TSV](./golf_courses.csv) are rendered nicely too and you can even search within the array! 
