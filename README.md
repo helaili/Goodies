@@ -19,4 +19,4 @@
 
 [CSV and TSV](./golf_courses.csv) are rendered nicely too and you can even search within the array!
 
-[PDFs](./enterprise-datasheet.pdf) show up too !
+[PDFs](./enterprise-datasheet.pdf) are beautiful too !
