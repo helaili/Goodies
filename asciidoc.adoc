@@ -53,10 +53,10 @@ Mouse:: Used to point to and select items on your computer screen.
 Monitor:: Displays information in visual form using text and graphics.
 
 
-[#img-sunset]
-.A mountain sunset
-[link=http://www.flickr.com/photos/javh/5448336655]
-image::sunset.jpg[Sunset,300,200]
+[#img-octocat]
+.The Octocat
+[link=https://octodex.github.com/images/original.png]
+image::Octocat[Octocat,300,200]
 
 
 [source,ruby]
