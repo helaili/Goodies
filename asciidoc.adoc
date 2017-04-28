@@ -1,4 +1,5 @@
 = Asciidoc Document
+:imagesdir: .
 
 NOTE: Asciidoc lets you write notes. 
 You've been notified
@@ -56,9 +57,9 @@ Monitor:: Displays information in visual form using text and graphics.
 
 
 [#img-octocat]
-.The Octocat
-[link=https://octodex.github.com/images/original.png]
-image::Octocat[Octocat,300,200]
+.Daftpunktocat
+[link=https://octodex.github.com]
+image::daftpunktocat.gif[daftpunktocat,300,200]
 
 
 
