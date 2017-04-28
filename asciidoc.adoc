@@ -53,10 +53,15 @@ Mouse:: Used to point to and select items on your computer screen.
 Monitor:: Displays information in visual form using text and graphics.
 
 
+
+
 [#img-octocat]
 .The Octocat
 [link=https://octodex.github.com/images/original.png]
 image::Octocat[Octocat,300,200]
+
+
+
 
 
 [source,ruby]
