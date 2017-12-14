@@ -1,0 +1,75 @@
+= Asciidoc Document
+:imagesdir: .
+
+NOTE: Asciidoc lets you write notes. 
+You've been notified
+
+TIP: Asciidoc provides tips
+You've been tipped
+
+IMPORTANT: Asciidoc can be important
+You are important
+
+CAUTION: Asciidoc makes you cautious of thins
+Now you are cautions
+
+WARNING: Asccidoc warns you 
+You've been warned
+
+
+*bold phrase* & **char**acter**s**
+
+_italic phrase_ & __char__acter__s__
+
+*_bold italic phrase_* & **__char__**acter**__s__**
+
+`monospace phrase` & ``char``acter``s``
+
+`*monospace bold phrase*` & ``**char**``acter``**s**``
+
+`_monospace italic phrase_` & ``__char__``acter``__s__``
+
+`*_monospace bold italic phrase_*` &
+``**__char__**``acter``**__s__**`
+
+
+[subs="verbatim,macros"] 
+----
+I better not contain *bold* or _italic_ text.
+pass:quotes[But I should contain *bold* text.] 
+----
+
+
+.Kizmet's Favorite Authors
+* Edgar Allen Poe
+* Sheri S. Tepper
+* Bill Bryson
+
+
+CPU:: The brain of the computer.
+Hard drive:: Permanent storage for operating system and/or user files.
+RAM:: Temporarily stores information the CPU uses during operation.
+Keyboard:: Used to enter text or control items on the screen.
+Mouse:: Used to point to and select items on your computer screen.
+Monitor:: Displays information in visual form using text and graphics.
+
+
+
+
+[#img-octocat]
+.Daftpunktocat
+[link=https://octodex.github.com]
+image::daftpunktocat.gif[daftpunktocat,300,200]
+
+
+
+
+
+[source,ruby]
+----
+require 'asciidoctor'  # <1>
+
+Asciidoctor.convert_file 'mysample.adoc'  # <2>
+----
+<1> Imports the library
+<2> Reads, parses and renders the file

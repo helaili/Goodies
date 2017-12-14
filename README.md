@@ -20,3 +20,5 @@
 [CSV and TSV](./golf_courses.csv) are rendered nicely too and you can even search within the array!
 
 [PDFs](./enterprise-datasheet.pdf) are beautiful too !
+
+Markdown isn't the only option. [Asciidoc](http://asciidoctor.org/) can show up nicely too, check [this sample](./asciidoc.adoc)!
